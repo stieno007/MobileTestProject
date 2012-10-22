@@ -8,7 +8,7 @@ package
 	{
 		public function MobileTestProject()
 		{
-			trace("hello");
+			trace("hello world");
 		}
 	}
 }
